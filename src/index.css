@@ -2,7 +2,7 @@ body{
   background: linear-gradient(to right,#f1c1cf,#afebfd) ;
 }
 .borders{
-  border-right: none;
+  border-right: 0px;
   border-left: none;
   border-top: none;
 }
@@ -11,5 +11,5 @@ body{
 }
 .card-header{
   background: #001b2e;
-  color: white;
+  color: #fff;
 }
